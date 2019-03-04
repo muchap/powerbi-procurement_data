@@ -1,7 +1,7 @@
 # Power BI dashboard: Procurement Analysis
 
 A dashboard created in Power BI visualising procurement data of anonymous company.<br>
-[Click here to open dashboard in Power BI platform](https://app.powerbi.com/view?r=eyJrIjoiNTcyNzdlYTctOGUwMy00YmVmLTgyYWQtMDMxZTIwMTczNjM0IiwidCI6Ijk0NzIwMTYwLWYzMTgtNDI1Ni1hYWI1LTQyNDQwOTExZWQ1ZiJ9)
+[Click here to open dashboard in Power BI platform](http://bit.ly/dashproc1)
 
 <p float="left">
   <img src="/screenshot1.jpg" width="400" />
