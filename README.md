@@ -3,10 +3,10 @@
 A dashboard created in Power BI visualasing procurement data of anonymous company.<br>
 [Click here to open dashboard in Power BI platform](https://app.powerbi.com/view?r=eyJrIjoiNTcyNzdlYTctOGUwMy00YmVmLTgyYWQtMDMxZTIwMTczNjM0IiwidCI6Ijk0NzIwMTYwLWYzMTgtNDI1Ni1hYWI1LTQyNDQwOTExZWQ1ZiJ9)
 
-<img src="/screenshot1.jpg" | width=400>
-<img src="/screenshot2.jpg" | width=400>
-<img src="/screenshot3.jpg" | width=400>
-<img src="/screenshot4.jpg" | width=400>
+<img src="/screenshot1.jpg" width="400">
+<img src="/screenshot2.jpg" width="400">
+<img src="/screenshot3.jpg" width="400">
+<img src="/screenshot4.jpg" width="400">
 
 ## Author
 Piotr Mucha
